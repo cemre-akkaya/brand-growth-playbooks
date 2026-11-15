@@ -68,8 +68,8 @@ Never sell a bare commodity. Build a grand slam bundle:
   - *Tier 2 (Pro - The Anchor):* Includes custom implementation sprint and dedicated account strategist.
   - *Tier 3 (Enterprise):* Custom integrations, SLA guarantees, executive quarterly business reviews.
 
-### Phase 4: Behavioral Pricing Typography & Syllable Psychology
-Pricing is not just math; it is cognitive perception. Every extra digit or symbol adds friction:
+### Phase 4: Behavioral Pricing Typography & Willingness-to-Pay (WTP)
+Pricing is not just math; it is cognitive perception and psychological tolerance:
 1. **The Elimination of Dots & Trailing Zeros (Coulter & Norberg Principle):**
    - **Rule:** Display prices as **`$49`** or **`49 AED`**—**NEVER `$49.00` or `49.00 AED`**.
    - *The Neurological Mechanism:* The brain processes numerical magnitude using phonological length (syllables) and visual length (characters).
@@ -82,8 +82,15 @@ Pricing is not just math; it is cognitive perception. Every extra digit or symbo
    - This creates an **asymmetric dominance decoy**: the smaller size makes the larger size look like an undeniable bargain, effortlessly directing 80%+ of volume to the higher tier and lifting Average Order Value (AOV).
 3. **Daily Expense Reframing:**
    - Frame recurring subscriptions in daily bite-sized increments: *"Only $2.63 / day (less than your morning coffee)"* instead of a daunting *"$79 / month"*.
+4. **The Van Westendorp Price Sensitivity Meter (Simon-Kucher Standard):**
+   - Survey 50 prospective buyers with 4 structured questions:
+     1. *At what price does this product feel so cheap you doubt its quality?* (**Too Cheap**)
+     2. *At what price is this a total bargain?* (**Bargain / Great Value**)
+     3. *At what price does it start getting expensive, but you would still buy?* (**Expensive / Premium**)
+     4. *At what price is it too expensive to consider?* (**Too Expensive**)
+   - The intersection curves calculate your **Optimum Price Point (OPP)** and **Price Indifference Point (IDP)**, eliminating guesswork.
 
-### Phase 4: Risk-Reversal Guarantees
+### Phase 5: Asymmetrical Risk-Reversal Guarantees
 Move beyond passive 30-day returns. Implement high-conviction guarantees:
 1. **The Performance Guarantee:** *"If you don’t achieve [Specific Metric] in [Timeframe], we work for free until you do."*
 2. **The "Keep the Bonuses" Guarantee:** *"If you aren't completely delighted in 30 days, we refund 100% of your money, and you keep all the templates and bonuses as our gift."*

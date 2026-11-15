@@ -26,7 +26,22 @@ Before running this playbook for any brand, collect or extract these 5 inputs:
 
 ---
 
-## 3. The 4-Phase Execution Framework
+## 3. The 5-Phase Execution Framework
+
+### Phase 0: The Unit Economics & Financial Guardrails Baseline (Common Thread Collective Standard)
+Top operators **never touch ad spend, copy, or funnels before auditing unit economics**. If unit economics are broken, scaling spend only accelerates cash exhaustion:
+1. **Marketing Efficiency Ratio (MER):**
+   $$\text{MER} = \frac{\text{Total Top-Line Revenue}}{\text{Total Paid Ad Spend}}$$
+   - *Target:* **$3.0\times – 4.5\times+$** for healthy scaling. In-platform platform ROAS (Meta/Google Ads Manager) is often inaccurate post-iOS 14.5; MER measures true business-level leverage.
+2. **Break-Even ROAS (The Floor):**
+   $$\text{Break-Even ROAS} = \frac{1}{\text{Gross Margin \%}}$$
+   - *Example:* If gross margin after COGS is 65% ($0.65$), Break-Even ROAS is $1 / 0.65 = 1.54$. Any ad campaign operating below $1.54$ is destroying cash on Day 1.
+3. **Contribution Margin 1 & 2 (CM1 & CM2):**
+   - $\text{CM1} = \text{Revenue} - \text{COGS} - \text{Shipping/Pick-Pack-Fulfill}$. (Measures product delivery efficiency).
+   - $\text{CM2} = \text{CM1} - \text{Paid Ad Spend}$. (Measures true variable operational profit before fixed overhead). Top 1% operators manage paid media to maximize total CM2 dollar volume, not vanity platform ROAS.
+4. **Post-Purchase Attribution Survey (Zero-Party Truth):**
+   - Install a 1-question post-purchase survey on the order confirmation screen (Fairing / Kno Commerce): *"How did you first hear about us?"*
+   - Cross-reference self-reported customer attribution against platform pixel reports to discover dark-social, podcast, creator, and word-of-mouth lift.
 
 ### Phase 1: The "Flaw Mine" Extraction (2-Star & 3-Star Audit)
 * Do not look at 1-star reviews (mostly shipping delays or angry rants) or 5-star reviews (often incentivized or generic).

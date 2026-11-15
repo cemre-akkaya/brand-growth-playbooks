@@ -212,6 +212,21 @@ In a crowded mobile inbox, static brand logos blend into a sea of gray text. Top
 - **Full List Blasts:** Deployed strictly **1 to 2 times per month** (for Black Friday, major product drops, or seasonal clearance) to prevent domain reputation damage.
 - **Suppression:** Automatically exclude customers who placed an order in the last 72 hours and users currently active in abandonment flows.
 
+### Advanced RFM Segmentation Matrix & Cohort LTV Waterfalls
+Top retention directors segment their customer database along **Recency, Frequency, and Monetary (RFM)** dimensions:
+
+| Customer Segment | RFM Score & Definition | Retention Strategy & Treatment |
+| :--- | :--- | :--- |
+| **1. The Champions (Whales)** | Recent purchase + 3+ orders + Top 10% AOV. | **Never discount.** Give early private access to new releases, handwritten notes from the founder, and private VIP feedback channels. |
+| **2. The Loyal Regulars** | Moderate recency + 2–3 orders + Average AOV. | Predictive replenishment flows, curated cross-sell bundles, and loyalty point milestones. |
+| **3. At-Risk High Rollers** | High spend in the past + Zero orders in 90+ days. | White-glove reactivation: Personalized SMS from a customer concierge, high-value free gifts with purchase, and direct feedback inquiries (*"How did we let you down?"*). |
+| **4. One-and-Done Buyers** | 1 order placed 60–120 days ago. | Educational re-onboarding, cross-category discovery kits, and time-sensitive restocking discounts. |
+
+#### Cohort Day 30 / 60 / 90 LTV Tracking
+Measure the **Repurchase Rate Waterfall** by monthly cohort:
+$$\text{Day 60 Repurchase Rate} = \frac{\text{Customers acquired in Month X who bought again within 60 days}}{\text{Total Customers acquired in Month X}}$$
+- *Benchmark:* **$\ge 20\%–30\%$** of new D2C customers should make a second purchase within 60–90 days. If this metric is under 15%, top-of-funnel ad scaling will bleed cash. The immediate fix is optimizing Post-Purchase Flow 6 (unboxing rituals and the 2-hour "Before It Ships" order add-on).
+
 ---
 
 ## 6. Target Performance Scorecard & Agency Benchmarks

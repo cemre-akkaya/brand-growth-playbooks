@@ -26,16 +26,38 @@
 
 ## 3. The 4-Phase Execution Framework
 
-### Phase 1: The Funnel Leak Diagnostic
+### Phase 1: The Funnel Leak Diagnostic & MECLABS Conversion Heuristic
 Calculate the drop-off gradient across the standard conversion funnel:
 * *Drop-off at Hero / Bounce Rate $> 60\%$:* Indicates a catastrophic **Message Match** failure. The promise made in the ad or email does not match what the user sees in the first 3 seconds above the fold.
 * *Drop-off from Product Page to Cart $> 85\%$:* Indicates value perception failure or unaddressed customer anxiety (price resistance, confusion on how it works).
 * *Drop-off from Cart to Checkout $> 65\%$:* Indicates hidden fees, unexpected shipping costs, or lack of trusted local payment options (Apple Pay, Tabby/Tamara, Shop Pay).
 
-### Phase 2: Eliminating "Social Doubt" (Katelyn Bourgoin Framework)
-* **Social Proof vs. Social Doubt:**
+#### The MECLABS Conversion Heuristic (Flint McGlaughlin)
+Every conversion decision in human psychology is governed by this mathematical model:
+
+$$C = 4m + 3v + 2(i - f) - 2a$$
+
+* **$C$ = Probability of Conversion.**
+* **$m$ = Motivation of the User (Weight: 4):** The heaviest factor. The user’s intrinsic burning desire. (We cannot create motivation; we can only align our messaging with it).
+* **$v$ = Clarity of the Value Proposition (Weight: 3):** Does the visitor immediately understand: *"Why should your ideal prospect buy from you rather than any competitor or doing nothing?"*
+* **$i$ = Incentive (Weight: 2):** Discretionary bonuses, speed perks, gifts, and instant savings.
+* **$f$ = Friction (Weight: -2):** Psychological or physical obstacles in the UI (excess form fields, bad layouts, slow loading, difficult navigation).
+* **$a$ = Anxiety (Weight: -2):** Psychological hesitation, risk of looking foolish, credit card security doubts, refund difficulty.
+
+### Phase 2: Eliminating "Social Doubt" & Rishi Rawat's 9 Pre-Purchase Doubts
+* **Social Proof vs. Social Doubt (Katelyn Bourgoin):**
   - *Social Proof* proves the company is real and other people like it (reviews, press badges).
   - *Social Doubt* is the buyer's internal insecurity: *"Will this work for ME? I've failed at this before. What if I don't have time?"*
+* **The 9 Pre-Purchase Doubts (Rishi Rawat / Frictionless Commerce):**
+  1. *Is this legitimate or an Instagram scam?* (Solved by showing founder faces and verified reviews).
+  2. *Will this work for my specific edge case?* (Solved by situational micro-copy).
+  3. *Why is it priced this way?* (Solved by ingredient or engineering transparency).
+  4. *What if I hate it?* (Solved by zero-hassle risk reversals).
+  5. *How does this actually work?* (Solved by 3-step visual mechanism diagrams).
+  6. *Is this difficult to use?* (Solved by "takes under 60 seconds a day" reassurance).
+  7. *Can I get this cheaper elsewhere?* (Solved by unique formulation or bundling).
+  8. *What if it breaks or gets lost in shipping?* (Solved by free replacement guarantees).
+  9. *Am I making an impulsive mistake?* (Solved by post-purchase validation).
 * **The Antidote:** Insert situational risk reversals directly next to the primary CTA:
   - *"Designed specifically for solo operators with under 20 minutes a day."*
   - *"Works even if you don't have a technical team."*

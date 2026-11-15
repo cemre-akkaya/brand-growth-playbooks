@@ -102,6 +102,18 @@ A high-converting PLP is not a static grid; it is an active browse-and-buy machi
 * **Why It Converts at 15–20%:** The customer’s credit card has already been authenticated. They can accept the offer with a single tap without re-entering shipping or billing details.
 * **The Offer:** A second unit of the same item at a steep 35% discount (*"Wait! Add a second bottle to your order right now for 35% off"*), or a complementary accessory.
 
+### Lever 6: The Dynamic "Free Gift Ladder" (Nik Sharma / Feastables Model)
+Instead of degrading brand prestige and slashing gross margins with a 20% discount coupon, 8-figure brands use tiered visual progress ladders inside the slide-out cart drawer:
+* **Tier 1 (\$75 Cart):** Unlocks **Free Express Shipping** (\$4 cost to brand, \$10 perceived customer value).
+* **Tier 2 (\$110 Cart):** Unlocks a **Free Branded Accessory / Travel Case** (\$3 cost to brand, \$20 perceived value).
+* **Tier 3 (\$150 Cart):** Unlocks a **Free Full-Size Best-Seller Product** (\$7 cost to brand, \$38 retail value).
+* *The Economic Result:* Customers enthusiastically add 1–2 more products to their cart to reach the next unlock threshold, elevating Average Order Value (AOV) by **25%–40%** while protecting full retail pricing power.
+
+### Lever 7: Inventory Run-Rate & Cash Conversion Cycle (CCC)
+Scaling traffic without inventory forecasting leads to stockouts, which kill Meta pixel momentum and algorithm optimization.
+* **The Golden Inventory Rule:** Maintain a rolling **45-day safety stock buffer** based on current 7-day velocity.
+* **Back-in-Stock Revenue Capture:** When a variant sells out, never hide the button. Replace "Sold Out" with an instant **"Notify Me on SMS / WhatsApp"** 1-tap modal (converting out-of-stock traffic into Day 1 re-launch cash).
+
 ---
 
 ## 4. The Drop-in Agent Prompt (Copy & Paste)

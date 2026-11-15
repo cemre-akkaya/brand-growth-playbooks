@@ -53,6 +53,18 @@ When analyzing raw customer transcripts, sort quotes into 4 distinct operational
 └──────────────────────────────┴──────────────────────────────────────────────┘
 ```
 
+### Phase 4: The Copyhackers "Sticky Copy" Translation Formula (Joanna Wiebe)
+Amateurs write clever copy from their own imagination. Elite copywriters **steal customer words verbatim**:
+1. **The "Words They Use Instead of Your Feature" Translation Table:**
+   - *Internal Brand Term:* "Asynchronous automated lead enrichment."
+   - *Customer Forum Verbatim:* *"I spend 3 hours every Sunday manually copying leads between LinkedIn and my spreadsheet and I hate my life."*
+   - *Winning Landing Page H1:* **"Stop Spending 3 Hours Every Sunday Manually Copying Leads."**
+2. **The "Rule of One" (Copyhackers Principle):**
+   - **One Reader:** Write to a single, hyper-specific individual sitting alone at their desk or on their phone.
+   - **One Promise:** One undeniable, quantifiable transformation.
+   - **One Core Emotion:** One dominant desire or frustration.
+   - **One Call to Action:** Zero competing buttons or split priorities.
+
 ---
 
 ## 4. The Drop-in Agent Prompt (Copy & Paste)

@@ -53,13 +53,16 @@ On mobile devices, 75% of users navigate with one thumb. Audit the interface aga
   - *Line Height:* 1.5x body text size for scannability.
 * **Color Psychology:** Reserve the brand’s high-contrast accent color (e.g. electric blue, safety orange, emerald green) **exclusively for primary conversion actions**. If buttons, badges, and headings all share the same color, the eye has no clear visual target.
 
-### Phase 3: The Cart Drawer & Frictionless Checkout
+### Phase 3: The Cart Drawer & Baymard Institute Checkout UX Standard
 * **The Slide-Out Cart Drawer (Never redirect to a separate cart page):**
   - Keeps the user in their browsing flow.
   - *Elements:* Free shipping progress bar (e.g., *"You are $15 away from Free Express Shipping"*), one-click quantity toggles, and direct Apple Pay / Google Pay / Shop Pay buttons.
-* **Form Field Pruning:** Every extra form field reduces conversion by 7%.
-  - Eliminate redundant address lines.
-  - Enable Google Autofill and Apple Pay 1-click checkout.
+* **The Baymard Institute Checkout Heuristics (Based on 130,000+ Hours of User Testing):**
+  1. **Mandatory Guest Checkout:** Forcing account creation causes **24% of all checkout abandonment**. Always default to guest checkout; offer account creation with a single click *after* the purchase on the thank-you screen.
+  2. **Address Autocomplete (Google Places API):** Typing street addresses on mobile is the #1 friction point. Auto-completing city, state, and zip code reduces form interaction time by 60%.
+  3. **Early Cost Transparency:** Never hide shipping rates or taxes until the final review step. Unexpected costs at step 3 cause 48% of total cart abandonment.
+  4. **Inline Field Validation:** Validate fields in real-time as the user types (green checkmark for valid zip/email) rather than displaying a jarring list of error messages after they click "Submit".
+  5. **Pruning Form Fields:** Every extra form field reduces mobile checkout conversion by ~7%. Collapse Address Line 2 into an optional link.
 
 ### Phase 4: Trust Architecture & Micro-Interactions
 * **The Security Triangle:** Place security badges (Norton, McAfee, 256-bit SSL), accepted payment icons (Visa, Mastercard, Amex, Klarna, Tabby), and money-back guarantee seals directly below the final checkout button.

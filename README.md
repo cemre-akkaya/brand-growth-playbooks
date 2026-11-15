@@ -37,8 +37,21 @@ Then prompt the agent:
 | **08. Offer & Pricing OS** | Alex Hormozi Value Equation, asymmetric guarantees, Decoy Sizing, zero/dot price typography | [`08_irresistible_offer_pricing_and_packaging_os.md`](08_irresistible_offer_pricing_and_packaging_os.md) |
 | **09. Voice of Customer (VoC)** | Reddit, Amazon & Trustpilot review mining into 4-bucket codebook (Pain, Hesitation, Aha, Desire) | [`09_voice_of_customer_voc_mining_os.md`](09_voice_of_customer_voc_mining_os.md) |
 | **10. Generative Engine Opt (GEO)**| Inverted Pyramid direct answer rule, AI Overview & Perplexity citation, entity consensus | [`10_generative_engine_optimization_geo_and_ai_search_os.md`](10_generative_engine_optimization_geo_and_ai_search_os.md) |
-| **11. E-Commerce & Shopify PDP** | Grüns daily cost model, PLP Quick-Add drawers, Cart Reservation & Delivery dual-clock | [`11_ecommerce_pdp_and_funnel_architecture_os.md`](11_ecommerce_pdp_and_funnel_architecture_os.md) |
+| **11. E-Commerce & Shopify PDP** | Grüns daily cost model, PLP Quick-Add drawers, Cart Reservation & Delivery dual-clock, Free Gift Ladders | [`11_ecommerce_pdp_and_funnel_architecture_os.md`](11_ecommerce_pdp_and_funnel_architecture_os.md) |
+| **12. Agency Master Onboarding** | Dual-Deliverable architecture: Executive Strategy Blueprint + 30-60-90 Day Modular Action Plan | [`12_agency_brand_onboarding_and_30_60_90_action_plan.md`](12_agency_brand_onboarding_and_30_60_90_action_plan.md) |
 | **Reference Vault** | Curated video teardowns, swipe files, and creator reels directory | [`CREATOR_VIDEO_REFERENCE_VAULT.md`](CREATOR_VIDEO_REFERENCE_VAULT.md) |
+
+---
+
+## ⚡ The 7-Day Brand Audit Sprint (Repeatable Agency Cadence)
+When taking on any new brand, execute the playbooks along this 7-day chronological track:
+* **Day 1:** Unit Economics & Financial Guardrails (MER, Break-Even ROAS, CM1/CM2, `pull_brand_dossier.py`) ➔ *Playbook 00 & 01*
+* **Day 2:** Voice of Customer Mining (Scraping 100 2/3-star reviews & Reddit, Flaw Mine) ➔ *Playbook 09 & 01*
+* **Day 3:** JTBD Positioning & Switch Analysis (Bob Moesta 4 Forces & Timeline Switch Interviews) ➔ *Playbook 02*
+* **Day 4:** Offer Architecture & Pricing (Grand Slam Bundles, Decoy Sizing, No-Dot Typography) ➔ *Playbook 08 & 11*
+* **Day 5:** Creative Media Matrix (4 Angles, 10 Hooks, 6 Winning Video Formats, 3:2:2 DCT) ➔ *Playbook 03 & 06*
+* **Day 6:** PDP, PLP & Funnel Overhaul (Baymard checkout heuristics, 20 Laws of UX, Grüns model) ➔ *Playbook 04, 07 & 11*
+* **Day 7:** Lifecycle Retention & GEO (10 flows, 10%+ popups, Order Confirmation, AI citations) ➔ *Playbook 05 & 10*
 
 ---
 

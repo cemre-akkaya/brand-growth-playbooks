@@ -60,6 +60,19 @@ The hook determines 80% of an ad's efficiency. Every brief must specify:
   - If Hook Rate $< 25\%$: Rework the first 3 seconds.
   - When a winning creative emerges with 3+ stable conversions at target CPA: Graduate that winning post ID into a dedicated scaling CBO (Campaign Budget Optimization) campaign.
 
+### Phase 5: The Quantitative Creative Diagnostic Waterfall (Dara Denney & Cody Plofker Standards)
+Never judge video creative on personal opinions or aesthetic taste. Diagnose the exact failure point using this quantitative metric waterfall:
+
+| Funnel Metric | Calculation & Benchmark | If Below Benchmark: The Exact Fix |
+| :--- | :--- | :--- |
+| **1. Hook Rate (Thumb-Stop)** | $\frac{\text{3-Second Video Plays}}{\text{Total Impressions}} \ge \mathbf{25\%–30\%}$ | The first 3 seconds failed to stop the scroll. **Fix:** Swap out the first visual frame, add animated text captions, test a bizarre visual prop, or test an "Uncomfortable Truth" statement. |
+| **2. Hold Rate (Watch-Through)** | $\frac{\text{15-Second Video Plays}}{\text{3-Second Video Plays}} \ge \mathbf{35\%–45\%}$ | Viewers stopped caring after the hook. **Fix:** Pacing was too slow. Cut dead pauses, speed up cuts to $<1.5\text{s}$, increase b-roll frequency, or add sound effects/ASMR audio. |
+| **3. Outbound Click Rate (CTR)** | $\frac{\text{Outbound Clicks}}{\text{Total Impressions}} \ge \mathbf{1.2\%–2.0\%+}$ | Viewers watched the video but didn't want to visit the site. **Fix:** Weak offer, unclear value proposition, or absent Call to Action. Make the CTA explicit and visually prominent in the final 5 seconds. |
+| **4. On-Page Conversion Rate** | $\frac{\text{Purchases / Leads}}{\text{Landing Page Sessions}} \ge \mathbf{2.5\%–4.0\%+}$ | High Hook, high Hold, and high CTR, but zero sales. **Fix:** Severe **Message Match Failure**. The landing page headline or offer failed to deliver on the specific promise made in the ad. Match the landing page hero copy directly to the winning ad hook. |
+
+#### Barry Hott's "Ugly Ads" Doctrine
+High-gloss, agency-produced commercial video frequently underperforms because the human brain instantly registers it as an ad and skips. Intentionally raw, low-fi creative—iPhone camera, imperfect lighting, screenshot memes, Notes App confessions, and native platform fonts—regularly delivers $2\times$ higher click-through rates by disguising the ad as authentic peer content.
+
 ---
 
 ## 4. The Drop-in Agent Prompt (Copy & Paste)

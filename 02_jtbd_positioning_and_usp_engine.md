@@ -26,7 +26,7 @@
 
 ## 3. The 4-Phase Execution Framework
 
-### Phase 1: The Jobs-to-be-Done (JTBD) 4 Forces Audit (Bob Moesta)
+### Phase 1: The Jobs-to-be-Done (JTBD) 4 Forces & Timeline Switch Protocol (Bob Moesta)
 For any purchase decision, audit the four competing psychological forces:
 1. **The Push of the Present:** The acute pain, frustration, or embarrassment caused by the current situation.
 2. **The Pull of the Future:** The emotional and operational relief promised by the new solution.
@@ -35,7 +35,22 @@ For any purchase decision, audit the four competing psychological forces:
 
 > **Positioning Law:** A sale only happens when $(\text{Push} + \text{Pull}) > (\text{Anxiety} + \text{Habit})$. Most positioning fails because it only increases Pull without reducing Anxiety.
 
-### Phase 2: Mapping Schwartz’s 5 Stages of Awareness
+#### The 4-Stage Purchase Timeline Protocol (Customer Switch Interviews)
+Top positioning strategists conduct 15-minute interviews with 10 recent buyers to map the chronological timeline:
+1. **First Thought:** What was the exact date and context when the customer first realized their current routine was imperfect?
+2. **Passive Looking:** What articles, videos, or competitor sites did they casually review without buying?
+3. **Active Looking (The Triggering Event):** What specific incident occurred that transformed passive interest into an urgent mandate? (e.g., an executive reprimand, a ruined vacation, a blown deadline, an embarrassing physical symptom).
+4. **Deciding & Buying (The Final Barrier):** What hesitation or doubt made their hand shake over the mouse right before submitting payment?
+
+### Phase 2: April Dunford's 5 Components of Market Positioning (*Obviously Awesome*)
+Before drafting slogans, define the 5 structural pillars:
+1. **Competitive Alternatives:** What would customers do if your brand ceased to exist tomorrow? *(Usually not another competitor, but an Excel sheet, hiring a cheap VA, or living with the pain)*.
+2. **Unique Differentiated Capabilities:** What can your product do that alternatives mathematically cannot?
+3. **Value for Customers:** What tangible outcome does that capability deliver?
+4. **Target Customer Segment:** For which specific segment is this value overwhelmingly high and urgent?
+5. **Market Category:** What frame of reference makes your unique value immediately obvious and natural?
+
+### Phase 3: Mapping Schwartz’s 5 Stages of Awareness
 Positioning must meet the buyer where they are in their cognitive journey:
 1. **Unaware:** They don't know they have a problem. *(Strategy: Tell a story or present a shocking statistical reality).*
 2. **Problem Aware:** They feel the pain, but don't know solutions exist. *(Strategy: Agitate the problem and show the hidden cost of inaction).*
