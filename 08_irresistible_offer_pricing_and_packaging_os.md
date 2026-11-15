@@ -90,10 +90,41 @@ Pricing is not just math; it is cognitive perception and psychological tolerance
      4. *At what price is it too expensive to consider?* (**Too Expensive**)
    - The intersection curves calculate your **Optimum Price Point (OPP)** and **Price Indifference Point (IDP)**, eliminating guesswork.
 
-### Phase 5: Asymmetrical Risk-Reversal Guarantees
-Move beyond passive 30-day returns. Implement high-conviction guarantees:
-1. **The Performance Guarantee:** *"If you don’t achieve [Specific Metric] in [Timeframe], we work for free until you do."*
-2. **The "Keep the Bonuses" Guarantee:** *"If you aren't completely delighted in 30 days, we refund 100% of your money, and you keep all the templates and bonuses as our gift."*
+### Phase 5: Alex Hormozi's 4 Core Guarantee Architectures & Risk Reversal
+Move beyond passive, generic 30-day return policies. Deploy calculated risk reversals that mathematically eliminate customer purchasing hesitation:
+
+1. **The Unconditional Satisfaction Guarantee ("No-Questions-Asked"):**
+   - *"Try it for 30 days. If you aren't completely thrilled, email us and receive a 100% refund immediately. No returns required, no interrogations, and keep all digital bonuses as our gift."*
+   - *Best for:* Consumable D2C e-commerce with strong unit margins and high repeat re-order rates where return fraud is statistically negligible (<2%).
+2. **The Conditional Performance Guarantee ("Show Us Your Work"):**
+   - *"Follow our 4-step implementation checklist, attend at least two coaching sessions, and deploy one campaign. If you do not generate at least $5,000 in tracked pipeline within 60 days, we refund 100% of your fee and pay you $500 for your wasted time."*
+   - *Best for:* High-ticket coaching, enterprise agencies, and B2B SaaS. Weeds out tire-kickers and forces the client to perform the necessary onboarding steps.
+3. **The Anti-Guarantee ("All Sales Strictly Final"):**
+   - *"All sales are final. We only take on 10 brands per quarter, and our team dedicates 150 hours of bespoke engineering to your setup. If you are not 100% committed, do not apply."*
+   - *Best for:* Ultra-luxury services, exclusive masterminds, and bespoke manufacturing runs. Signals supreme category confidence and high demand.
+4. **The Implied / Performance Guarantee:**
+   - *"You pay a base setup cost, and our compensation is tied directly to incremental revenue above your baseline. If you don't make money, we don't get paid."*
+   - *Best for:* Growth agencies, media buying contracts, and revenue-share partnerships.
+
+### Phase 6: The M-A-G-I-C Offer Naming Framework & Scarcity Engineering (Hormozi Method)
+
+#### 1. The M-A-G-I-C Naming Syntax
+Transform a generic service or product bundle into a high-converting branded intellectual property:
+* **M – Magnetic Reason:** Why is this offer happening? (e.g., *New Year Launch, Inventory Refresh, Beta Founder Cohort, Anniversary Special*).
+* **A – Announce Avatar:** Who is this specifically engineered for? (e.g., *7-Figure Shopify Founders, Solo Lawyers, Busy Moms*).
+* **G – Give Goal:** What is the exact quantifiable outcome? (e.g., *Add $50k in Net LTV, Clear Glowing Skin, Drop 10kg*).
+* **I – Indicate Interval:** What is the exact timeframe? (e.g., *in 21 Days, 6-Week Sprint, 48-Hour Weekend Intensive*).
+* **C – Container Word:** What packaging container describes the offer? (e.g., *Sprint, Blueprint, Protocol, Mastermind, Accelerator, Engine*).
+* *Formula Example:* **"The 21-Day E-Commerce LTV Accelerator: For 7-Figure Shopify Founders Adding $50k In Net Retention"**.
+
+#### 2. Scarcity vs. Urgency Mechanics
+* **Scarcity (Supply-Limited):**
+  - *Mechanism:* Physical constraints on inventory or delivery bandwidth.
+  - *Execution:* *"Only 500 units produced in this batch"* or *"Strictly limited to 8 client onboardings per month to protect client SLAs"*.
+* **Urgency (Time-Limited):**
+  - *Mechanism:* Ticking clock on bonuses, pricing tiers, or availability.
+  - *Execution:* *"Cart closes Friday at 11:59 PM EST"* or *"Early-bird $200 discount expires when the countdown timer hits zero"*.
+  - *Rule of Integrity:* Never fake scarcity or urgency. If a countdown timer resets upon browser refresh, prospective buyers lose all trust in the brand.
 
 ---
 

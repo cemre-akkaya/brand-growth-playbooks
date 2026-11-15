@@ -53,7 +53,7 @@ When analyzing raw customer transcripts, sort quotes into 4 distinct operational
 └──────────────────────────────┴──────────────────────────────────────────────┘
 ```
 
-### Phase 4: The Copyhackers "Sticky Copy" Translation Formula (Joanna Wiebe)
+### Phase 4: The Copyhackers "Sticky Copy" Translation Formula & Copy Frameworks (Joanna Wiebe Standard)
 Amateurs write clever copy from their own imagination. Elite copywriters **steal customer words verbatim**:
 1. **The "Words They Use Instead of Your Feature" Translation Table:**
    - *Internal Brand Term:* "Asynchronous automated lead enrichment."
@@ -64,6 +64,30 @@ Amateurs write clever copy from their own imagination. Elite copywriters **steal
    - **One Promise:** One undeniable, quantifiable transformation.
    - **One Core Emotion:** One dominant desire or frustration.
    - **One Call to Action:** Zero competing buttons or split priorities.
+3. **The 4 Classic Conversion Copywriting Formulas:**
+   - **PAS (Problem – Agitation – Solution):**
+     - *Problem:* Clearly name the exact frustration (*"Your ad account CPA just doubled after the latest iOS update."*).
+     - *Agitation:* Make the emotional/financial consequence visceral (*"You're burning cash on Meta, your team has no idea which creative is working, and your board is demanding answers by Friday."*).
+     - *Solution:* Introduce the proprietary mechanism (*"Our 3:2:2 Dynamic Testing framework isolates profitable creative in 48 hours without budget waste."*).
+   - **AIDA (Attention – Interest – Desire – Action):** Classic direct-response architecture for landing page sections and cold outbound emails.
+   - **BAB (Before – After – Bridge):**
+     - *Before:* Describe the chaotic, painful current state.
+     - *After:* Describe the peaceful, highly automated transformed state.
+     - *Bridge:* Introduce the product as the single vessel connecting Before to After.
+   - **FAB (Feature – Advantage – Benefit):**
+     - *Feature:* What it is (e.g., *"100% Organic Bamboo Lyocell"*).
+     - *Advantage:* What it physically does (e.g., *"Thermally regulates 3 degrees cooler than cotton"*).
+     - *Benefit:* The emotional transformation (e.g., *"Wake up feeling completely refreshed without night sweats"*).
+4. **The "Even If..." and "Without..." Headline Objections Slayers:**
+   - Always pair a bold transformation promise with the customer's #1 hidden fear:
+     - *Syntax:* **[Achieve Desirable Outcome] + [Even If / Without Primary Objection]**
+     - *Example:* *"Scale Paid Acquisition to $50k/Month—Without Hiring an Expensive Agency or Spending 10 Hours a Week in Ads Manager."*
+     - *Example:* *"Clear, Radiant Skin in 14 Days—Even If You've Tried 10 Other Dermatologist Creams That Caused Breakouts."*
+5. **First-Person Micro-Copy & Button Psychology:**
+   - Never write buttons with impersonal commands like *"Submit"*, *"Click Here"*, or *"Download"*.
+   - Write CTA button text as the mental completion of the prospect's thought:
+     - *"I want to... [Claim My 14-Day Free Trial]"* $\rightarrow$ Button: **"Claim My 14-Day Free Trial"**
+     - *"I want to... [See The 30-Day Blueprint]"* $\rightarrow$ Button: **"See The 30-Day Blueprint"**
 
 ---
 

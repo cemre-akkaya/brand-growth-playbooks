@@ -102,14 +102,44 @@ A high-converting PLP is not a static grid; it is an active browse-and-buy machi
 * **Why It Converts at 15–20%:** The customer’s credit card has already been authenticated. They can accept the offer with a single tap without re-entering shipping or billing details.
 * **The Offer:** A second unit of the same item at a steep 35% discount (*"Wait! Add a second bottle to your order right now for 35% off"*), or a complementary accessory.
 
-### Lever 6: The Dynamic "Free Gift Ladder" (Nik Sharma / Feastables Model)
+### Lever 6: The Nik Sharma DTC Funnel Architectures (Advertorials, Listicles & Landing Pages)
+Dumping paid Meta, TikTok, or Google ad traffic directly onto a generic product detail page (converting at 1%–2%) is leaving millions on the table. Nik Sharma (Sharma Brands) popularized 3 specialized funnel architectures that consistently convert at **5%–9%+**:
+
+#### 1. The 14-Section High-Converting DTC Landing Page Blueprint
+A structured user journey designed to answer the buyer's implicit questions before they can bounce:
+1. **The Hero Section:** Clear value proposition, product in use visual, and immediate frictionless CTA (*"Get 25% Off Now"*).
+2. **The "Why" / Value Props:** Concise benefit callouts utilizing scannable icons (zero corporate fluff).
+3. **The "Brag Bar":** Recognized press logos (*Forbes, Vogue, Fast Company*) combined with short, punchy customer review quotes.
+4. **The Problem / Solution Transition:** Acknowledging the specific frustration that caused the buyer to click the ad.
+5. **Visual Evidence / Product in Action:** Dynamic GIFs, high-res texture shots, or UGC showing the mechanism in real-time.
+6. **The Comparison / Offer Matrix:** A simple table comparing the Starter Kit vs. Deluxe Bundle to make selection effortless.
+7. **The Founder Note / Clinical Authority:** Why the product was engineered and the clinical standards it meets.
+8. **Risk Reversal & FAQ:** Crushing shipping, return, and compatibility hesitations.
+
+#### 2. The Problem-Solution Advertorial Funnel (For High-Consideration / Complex Products)
+Best deployed for health, wellness, skincare, and high-ticket consumables where customers need education before buying:
+* **Phase 1 (The Editorial Hook):** Styled like an independent publication article. Focuses on an industry-wide scandal or consumer health dilemma (*"The Hidden Chemical in 90% of Commercial Deodorants"* or *"Why Traditional Collagen Powders Don't Absorb"*).
+* **Phase 2 (Data & Clinical Validation):** Cites third-party clinical studies, medical journals, and statistical evidence establishing the seriousness of the problem.
+* **Phase 3 (The Natural Pivot):** Introduces the target brand as the newly discovered, scientifically formulated breakthrough that solves the dilemma.
+* *Why it scales:* Meta’s algorithm rewards high-dwell-time educational pages with cheaper CPMs and lower CPCs. Visitors who click from the advertorial to the PDP convert at $3\times$ higher rates because they are already thoroughly convinced.
+
+#### 3. The "5 Reasons Why" Listicle Blueprint
+A modular, scannable format engineered for mobile feeds:
+* **The Curiosity Headline:** *"5 Reasons Why Thousands of Women Are Replacing Their Morning Coffee with This Mushroom Elixir"* or *"7 Reasons Dermatologists Recommend Switching to Barrier Creams"*.
+* **Modular Claim + Proof Structure:** 5 distinct numbered sections. Each section presents **one clear claim** paired immediately with **concrete third-party proof** (a dermatologist quote, a before/after lab photo, or a verified customer snippet).
+* **Dual Floating CTAs:** Persistent sticky banner at the top and bottom of the article directing readers straight into the 3-Pack bundle selector.
+
+### Lever 7: The Dynamic "Free Gift Ladder" (Nik Sharma / Feastables Model)
 Instead of degrading brand prestige and slashing gross margins with a 20% discount coupon, 8-figure brands use tiered visual progress ladders inside the slide-out cart drawer:
 * **Tier 1 (\$75 Cart):** Unlocks **Free Express Shipping** (\$4 cost to brand, \$10 perceived customer value).
 * **Tier 2 (\$110 Cart):** Unlocks a **Free Branded Accessory / Travel Case** (\$3 cost to brand, \$20 perceived value).
 * **Tier 3 (\$150 Cart):** Unlocks a **Free Full-Size Best-Seller Product** (\$7 cost to brand, \$38 retail value).
 * *The Economic Result:* Customers enthusiastically add 1–2 more products to their cart to reach the next unlock threshold, elevating Average Order Value (AOV) by **25%–40%** while protecting full retail pricing power.
 
-### Lever 7: Inventory Run-Rate & Cash Conversion Cycle (CCC)
+### Lever 8: Inventory Run-Rate & Cash Conversion Cycle (CCC)
+Scaling traffic without inventory forecasting leads to stockouts, which kill Meta pixel momentum and algorithm optimization.
+* **The Golden Inventory Rule:** Maintain a rolling **45-day safety stock buffer** based on current 7-day velocity.
+* **Back-in-Stock Revenue Capture:** When a variant sells out, never hide the button. Replace "Sold Out" with an instant **"Notify Me on SMS / WhatsApp"** 1-tap modal (converting out-of-stock traffic into Day 1 re-launch cash).
 Scaling traffic without inventory forecasting leads to stockouts, which kill Meta pixel momentum and algorithm optimization.
 * **The Golden Inventory Rule:** Maintain a rolling **45-day safety stock buffer** based on current 7-day velocity.
 * **Back-in-Stock Revenue Capture:** When a variant sells out, never hide the button. Replace "Sold Out" with an instant **"Notify Me on SMS / WhatsApp"** 1-tap modal (converting out-of-stock traffic into Day 1 re-launch cash).

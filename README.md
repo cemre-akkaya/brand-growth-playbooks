@@ -3,6 +3,16 @@
 
 This repository contains battle-tested, end-to-end strategic playbooks that bridge the gap between high-level executive theory and granular tactical execution. Built for founders, growth leaders, and autonomous AI agents (Claude Code, Antigravity, Cursor).
 
+Every framework is synthesized from the world's top 1% growth operators, performance creative directors, and conversion psychologists:
+* **Unit Economics & Financial Guardrails:** Taylor Holiday (Common Thread Collective - 4-Quarter P&L & E-Commerce Growth Equation), Cody Plofker (Jones Road Beauty - MER & nCAC).
+* **Positioning, Category & JTBD:** Bob Moesta (Rewired Group - 4 Forces & Timeline Switch Protocol), April Dunford (*Obviously Awesome* & *Sales Pitch*), Peep Laja (Wynter / CXL - Message Resonance & Distinctiveness), Eugene Schwartz (*Breakthrough Advertising*).
+* **Performance Creative & Paid Scaling:** Cody Plofker (Creative Simplification & Partnership Ads), Dara Denney (Sweet Spot Briefs & 80/20 Iteration Matrix), Barry Hott (Ugly Ads & Lo-Fi Subconscious Bypassing), Nick Shackelford (3:2:2 DCT & Cost Cap Scaling).
+* **Behavioral CRO & Funnel Architecture:** Flint McGlaughlin (MECLABS Heuristic $C = 4m + 3v + 2(i-f) - 2a$), Oliver Kenyon (ConversionWise - ATIDFA Above-The-Fold Wireframes), Rishi Rawat (Frictionless Commerce - 9 Truths of E-Commerce Shoppers), Baymard Institute (18-Point Mobile Checkout Heuristics).
+* **Offer Packaging & Behavioral Pricing:** Alex Hormozi ($100M Offers - Value Equation & Grand Slam Guarantees), Simon-Kucher (Van Westendorp Price Sensitivity Meter), Coulter & Norberg (Zero/Dot Typography Elimination).
+* **Lifecycle Retention & CX:** Max Sturtevant (Well Copy - 3.5 Pillars & 10 Core Flows), Chase Dimond (Structured - Plain-Text vs HTML & List Hygiene), Eli Weiss (CX as Primary Retention & Unboxing Magic).
+* **Conversion Copywriting & VoC:** Joanna Wiebe (Copyhackers - Sticky Copy Mining, Rule of One, PAS/AIDA/BAB).
+* **DTC Funnels & Headless PDPs:** Nik Sharma (Sharma Brands - Advertorials, 5-Reasons Listicles, Free Gift Ladders), Grüns & Taika Teams.
+
 ---
 
 ## 🚀 Quickstart for AI Agents

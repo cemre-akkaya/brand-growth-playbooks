@@ -44,39 +44,65 @@ $$C = 4m + 3v + 2(i - f) - 2a$$
 * **$f$ = Friction (Weight: -2):** Psychological or physical obstacles in the UI (excess form fields, bad layouts, slow loading, difficult navigation).
 * **$a$ = Anxiety (Weight: -2):** Psychological hesitation, risk of looking foolish, credit card security doubts, refund difficulty.
 
-### Phase 2: Eliminating "Social Doubt" & Rishi Rawat's 9 Pre-Purchase Doubts
+### Phase 2: Eliminating "Social Doubt" & Rishi Rawat's 9 Truths of E-Commerce Shoppers (Frictionless Commerce)
 * **Social Proof vs. Social Doubt (Katelyn Bourgoin):**
   - *Social Proof* proves the company is real and other people like it (reviews, press badges).
   - *Social Doubt* is the buyer's internal insecurity: *"Will this work for ME? I've failed at this before. What if I don't have time?"*
-* **The 9 Pre-Purchase Doubts (Rishi Rawat / Frictionless Commerce):**
-  1. *Is this legitimate or an Instagram scam?* (Solved by showing founder faces and verified reviews).
-  2. *Will this work for my specific edge case?* (Solved by situational micro-copy).
-  3. *Why is it priced this way?* (Solved by ingredient or engineering transparency).
-  4. *What if I hate it?* (Solved by zero-hassle risk reversals).
-  5. *How does this actually work?* (Solved by 3-step visual mechanism diagrams).
-  6. *Is this difficult to use?* (Solved by "takes under 60 seconds a day" reassurance).
-  7. *Can I get this cheaper elsewhere?* (Solved by unique formulation or bundling).
-  8. *What if it breaks or gets lost in shipping?* (Solved by free replacement guarantees).
-  9. *Am I making an impulsive mistake?* (Solved by post-purchase validation).
-* **The Antidote:** Insert situational risk reversals directly next to the primary CTA:
-  - *"Designed specifically for solo operators with under 20 minutes a day."*
-  - *"Works even if you don't have a technical team."*
-  - *"100% money-back guarantee, no questions asked, keep the bonuses."*
+* **The 9 Truths About Online Shoppers (Rishi Rawat Protocol):**
+  1. *People are skeptical of "too good to be true":* Defuse skepticism upfront with transparent limitations or explanations of why you built the product this way.
+  2. *They find expertise sexy:* Demonstrate deep technical, clinical, or manufacturing authority (show ingredients, testing standards, tolerances).
+  3. *They root for people who beat the odds:* Share the authentic founder/underdog origin story and why legacy products forced you to invent this.
+  4. *They are fascinated by surprising details:* Insert counter-intuitive niche facts ("KitKat breaks" that disrupt reading fatigue and prove expertise).
+  5. *They are visual animals:* Never explain in text what can be visualized in an annotated callout, diagram, or GIF.
+  6. *They need motivation to break habits:* Overcome switching inertia by contrasting the ongoing compounding pain of doing nothing vs. immediate relief.
+  7. *They love personalized experiences:* Offer interactive selectors, quizzes, or context tags so the user feels the page was custom-tailored for them.
+  8. *They like knowing they've stumbled onto something rare:* Frame the product around curated small-batch craft, exclusive formulation, or limited allocations.
+  9. *We must resolve their negative thoughts:* Proactively articulate the exact pre-purchase objection out loud before the customer can think it.
 
-### Phase 3: The 6-Block High-Converting Landing Page Architecture
-1. **Above-the-Fold Hero Section:**
-   - *Eyebrow:* Category identifier.
-   - *Headline:* Clear, quantifiable transformation (from Playbook 2).
-   - *Subhead:* Explains the mechanism without jargon.
-   - *Primary CTA Button:* Action-oriented (*"Get Instant Access"* or *"Claim Your Audit"* vs. *"Submit"*).
-   - *Trust Bar:* Star rating + quote from a recognizable entity or number of customers served.
-2. **The Social Proof & Authority Wall:** Client logos, media mentions, before/after metrics.
-3. **The "Struggling Moment" Teardown:** Acknowledging the old, painful way of doing things vs. the new way.
-4. **The Proprietary Mechanism (3-Step Simplicity):** Showing how easy it is to implement in Step 1, Step 2, Step 3.
-5. **The "Us vs. Them" Comparison Matrix:** A high-contrast comparison table showcasing your modern solution vs. legacy alternatives.
-6. **The Objection-Crushing FAQ Block:** 5 questions answering the exact legal, financial, and time concerns that kill deals.
+### Phase 3: The ATIDFA Wireframing Framework & Above-the-Fold Architecture (Oliver Kenyon / ConversionWise Standard)
+Structure beats artistic trends every time. ConversionWise expands traditional AIDA into the high-converting **ATIDFA Framework**:
 
-### Phase 4: The 10%+ Pop-Up Form Architecture ($250M Agency Standard)
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                      THE ATIDFA CRO WIREFRAME BLUEPRINT                     │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ [A – ATTENTION (Above the Fold)]                                            │
+│  1. Promotional Top Notice Bar (Free Shipping threshold / Active code)      │
+│  2. Clear Value Proposition Headline (Who it's for + What it does in 3s)    │
+│  3. High-Impact Visual / Hero Product Image (In context of use)             │
+│  4. Instant Social Proof Brag Bar (Star rating, review count, press logos) │
+│  5. Benefit-Driven Icon Bullets (3–4 scannable product advantages)          │
+│  6. High-Contrast Primary Call to Action (CTA) Button                       │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ [T – TRANSFORMATION]                                                        │
+│  • Visual Before & After, state transition, or customer case story          │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ [I – INTEREST]                                                              │
+│  • Features, specs, ingredients, and modular product teardown cards         │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ [D – DESIRE]                                                                │
+│  • Deep social proof: UGC video carousel, filterable reviews, trust badges   │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ [F – FAQ]                                                                   │
+│  • Objection-handling accordion (shipping times, return policy, guarantees)  │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ [A – ACTION]                                                                │
+│  • Final high-urgency purchase block + sticky mobile Add-to-Cart bar        │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+### Phase 4: Baymard Institute 18-Point Mobile Checkout & Form Heuristics
+Mobile checkout abandonment averages 70%–80%. Baymard Institute’s exhaustive usability benchmarks provide exact engineering requirements to recover lost revenue:
+1. **Guest Checkout as Prominent Default:** Never force account registration before purchase. Forcing account creation causes **24% of checkout abandonments**.
+2. **Google Places Address Autocomplete:** Implement Google Places API or Loqate on shipping fields. Reduces mobile typing effort by **60%+** and eliminates typos that cause shipping delays.
+3. **Dedicated Mobile Keypads:** Tag form fields with semantic HTML attributes:
+   - Phone numbers & credit cards: `type="tel"` or `inputmode="numeric"` to trigger numeric keyboards instead of QWERTY.
+   - Email field: `type="email"` with autocomplete enabled.
+4. **Proactive Inline Validation:** Validate form entries immediately upon field completion (green checkmark for valid zip/email) rather than waiting for the user to tap "Submit" and reloading the page with red error banners.
+5. **Single Billing = Shipping Pre-Checked Toggle:** Default to "Billing address same as shipping" (true for 95% of consumers), collapsing checkout form length in half.
+6. **Persistent Sticky Order Summary:** On mobile, ensure the total order cost (including shipping, taxes, and applied discounts) is visible in a sticky drawer or collapsible summary to eliminate **"hidden fee shock"**, the #1 cited reason for cart abandonment.
+
+### Phase 5: The 10%+ Pop-Up Form Architecture ($250M Agency Standard)
 Standard e-commerce pop-ups convert at a dismal 2%–3%. By engineering high-converting micro-commitments, top brands achieve **10%–15%+ opt-in rates**, fueling retention 2.7x faster:
 1. **The Multi-Step Micro-Commitment:**
    - *Step 1 (Zero-Friction Question):* Ask a 1-click self-segmentation question (*"What's your primary goal? [Option A] or [Option B]"*). Clicking an option establishes psychological buy-in.
@@ -87,7 +113,7 @@ Standard e-commerce pop-ups convert at a dismal 2%–3%. By engineering high-con
    - *Desktop:* Trigger on **6–8 seconds elapsed** OR **50% scroll depth** OR **Exit Intent** (mouse moving towards URL bar).
    - *Mobile:* Deploy a non-intrusive **Sticky Teaser Tab** (*"🎁 Get $20 Off"*) docked at the bottom corner that expands upon tap, fully compliant with Google’s mobile intrusive interstitial guidelines.
 
-### Phase 5: High-Impact Micro-CRO Tactical Levers
+### Phase 6: High-Impact Micro-CRO Tactical Levers
 1. **The Cart Reservation & Delivery Certainty Clock:**
    - In the slide-out cart drawer and checkout, insert a dual-timer block:
      - *"Your cart items are reserved for 14:59 minutes"* (Loss Aversion / anti-procrastination).
@@ -99,7 +125,7 @@ Standard e-commerce pop-ups convert at a dismal 2%–3%. By engineering high-con
    - **Remove all decimal points and trailing zeros:** Write **`$49`** or **`49 AED`**, never **`$49.00`** or **`49.00 AED`**.
    - Shorter character length and fewer phonological syllables in the brain directly reduce perceived price magnitude.
 
-### Phase 6: Prioritizing the Experiment Backlog (PIE Framework)
+### Phase 7: Prioritizing the Experiment Backlog (PIE Framework)
 Score every potential test from 1 to 10:
 * **Potential:** How much improvement is possible on this specific page?
 * **Importance:** How valuable is the traffic flowing through this step?
